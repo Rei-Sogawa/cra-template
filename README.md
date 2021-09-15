@@ -1,4 +1,4 @@
-# task
+# settings
 
 - craco
 - prettier
