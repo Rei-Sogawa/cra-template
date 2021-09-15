@@ -1,4 +1,4 @@
-import { Public } from '@/ui/hocs/redirect'
+import { Public } from '@/routes/redirect'
 import IndexPage from '@/ui/pages'
 
 export const routeMap = {
